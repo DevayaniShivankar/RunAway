@@ -32,8 +32,8 @@ Popularized by mobile games like Temple Run and Subway Surfers, the endless runn
 1. Amartya Jayawant Patil - 
 2. Devayani Shivankar - 
 3. Vaishnavi Jarwal - 
-4. Navya Sharma - 
-5. Reshmika Sreenath Nambiar - I learned how to use the Unity game engine to make games. I understood how the process for creating a game works, from the creation of models and animations, to controlling the characters. I also learned how to calculate and store the scores and how to link games to a database like Firestore. I am new to game development, so I learnt a lot.
+4. Navya Sharma - I learnt the fundamental techniques in Unity development, such as Adding and manipulating GameObjects and their Components, Scripting, UI, and much more. I learnt to model and make textures. In addition to becoming familiar with the Unity editor and workflow, I learnt how to create new C# scripts and do some simple programming.
+5. Reshmika Sreenath Nambiar - I learned how to use the Unity game engine to make games. I understood how the process for creating a game works, from the creation of models and animations, to controlling the characters. I also learned how to calculate and store the scores and how to link games to a database like Firestore. I was new to game development, so I learnt a lot.
 
 ## Future scope
 We can add more characters. We can also add more actions like rolling/ducking. Collectibles other than coins, such as power-ups and other items can also be added. Our initial plan was to have the character be a mermaid who turns into a human on land. So this mermaid scene can also be added in the future.
