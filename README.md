@@ -29,11 +29,11 @@ Popularized by mobile games like Temple Run and Subway Surfers, the endless runn
 
 ## What did you learnt from this project
 
-1. Amartya Jayawant Patil - 
+1. Amartya Jayawant Patil - This one is my first unity project, I don't have much experience in the unity but I like the logic the game works  and it looks in the cool graphics. And Here we used the firestore to set the user score , update the data , save it this one is most challenging part and obviously getting designs of characters this one is also challenging task.
 2. Devayani Shivankar - I explored the URP and HRDP Templates extensively before I actually started working on this. Went through the new updates that Unity has provided and got to know about the innumerable features that it provides, including shader graphs, particle systems and character animations. Integration with Firebase was exhausting but we got help and made it through.
-3. Vaishnavi Jarwal - 
-4. Navya Sharma - 
-5. Reshmika Sreenath Nambiar - I learned how to use the Unity game engine to make games. I understood how the process for creating a game works, from the creation of models and animations, to controlling the characters. I also learned how to calculate and store the scores and how to link games to a database like Firestore. I am new to game development, so I learnt a lot.
+3. Vaishnavi Jarwal - Game development has always been the exciting thing to me. I always wanted to develop a game that was fun to play. I learnt a lot about unity game engine . This was one of the first experiences in game development and so I got to know how the general games are developed(this is a real challenging task), right from creating animations and shaping the characters to the whole final touchup of the game. Most fascinating thing was working with a team and mentors, because that really had a impact on the way I worked. This unity project was really a exhilarating experience for me.I understood the logic behind the development of games and how to use unity game engines and link it to firebase.It was a whole new domain for me and I am glad I learned a lot from it.
+4. Navya Sharma - I learnt the fundamental techniques in Unity development, such as Adding and manipulating GameObjects and their Components, Scripting, UI, and much more. I learnt to model and make textures. In addition to becoming familiar with the Unity editor and workflow, I learnt how to create new C# scripts and do some simple programming.
+5. Reshmika Sreenath Nambiar - I learned how to use the Unity game engine to make games. I understood how the process for creating a game works, from the creation of models and animations, to controlling the characters. I also learned how to calculate and store the scores and how to link games to a database like Firestore. I was new to game development, so I learnt a lot.
 
 ## Future scope
 We can:
