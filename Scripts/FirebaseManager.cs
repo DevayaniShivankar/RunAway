@@ -39,6 +39,7 @@ public class FirebaseManager : MonoBehaviour
 
     void Awake()
     {
+        DontDestroyOnLoad(this.gameObject);         //So that this object persists across scenes
         //Check that all of the necessary dependencies for Firebase are present on the system
         FirebaseApp.CheckAndFixDependenciesAsync().ContinueWith(task =>
         {
@@ -61,6 +62,20 @@ public class FirebaseManager : MonoBehaviour
         //Set the authentication instance object
         auth = FirebaseAuth.DefaultInstance;
         DBreference = FirebaseDatabase.DefaultInstance.RootReference;
+
+        // Check if user is already logged in
+        if (auth.CurrentUser != null)
+        {
+            IsLoggedIn = true;
+            User = auth.CurrentUser;
+            Debug.LogFormat("User already signed in: {0} ({1})", User.DisplayName, User.Email);
+            // Optionally, go to main menu or update UI here
+        }
+        else
+        {
+            IsLoggedIn = false;
+            User = null;
+        }
     }
 
     public void ClearLoginFeilds()
